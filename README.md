@@ -32,9 +32,9 @@ A role-based Android app for students, companies, and administrators, covering j
 
 ## Certifications
 
-- Data Analytics Masters 2026
-- AWS Academy Graduate – Cloud Foundations
-- AWS Academy Graduate – Microservices & CI/CD Pipeline Builder
+- [Data Analytics Masters 2026](https://ude.my/UC-dd1d64e6-684a-4279-81cb-f42fe25c5180)
+- [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/go/nvZ9O7Gz)
+- [AWS Academy Graduate – Microservices & CI/CD Pipeline Builder](https://www.credly.com/go/A9xsSN9c)
 
 ## Connect
 
